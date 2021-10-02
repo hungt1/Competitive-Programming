@@ -4,3 +4,5 @@ sol
 *.exe
 *.txt
 .vscode
+*.md
+*.pdf
