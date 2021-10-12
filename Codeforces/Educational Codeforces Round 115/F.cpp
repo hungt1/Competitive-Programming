@@ -53,6 +53,7 @@ int main()
 
     }
     vector<int> dp(1 << n, 0);
+    for (int i = 0; i < (1 << n); i++) sum[i] = -INF;
     sum[0] = 0;
     int ans = 0;
     for (int mask = 0; mask < (1 << n); mask++){
@@ -60,9 +61,7 @@ int main()
         for (int i = 0; i < n; i++){
             if (!(mask >> i & 1)){
                 int nxt = (mask ^ (1 << i));
-                sum[nxt] = sum[mask] + val[i];
                 if (sum[mask] - preMin[i][s[i].length() - 1] < 0) {
-                    sum[nxt] = -INF;
                     int p = upper_bound(preMin[i], preMin[i] + s[i].length(), sum[mask]) - preMin[i];
                     if (cnt[i].count(-sum[mask])){
                         int add = upper_bound(all(cnt[i][-sum[mask]]), p - 1) - cnt[i][-sum[mask]].begin();
@@ -70,6 +69,7 @@ int main()
                     }
                     continue;
                 }
+                sum[nxt] = sum[mask] + val[i];
                 if (cnt[i].count(-sum[mask])){
                     chmax(dp[nxt], dp[mask] + (int)cnt[i][-sum[mask]].size());
                 }
