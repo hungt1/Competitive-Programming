@@ -1,5 +1,5 @@
 ## VNOJ Problems
-| Problem | Analysis |
+| Problem                         | Analysis                |
 | ----------- | ----------- |
 | [COUNTPL](Code/COUNTPL/sol.cpp) | [COUNTPL.md](Code/COUNTPL/COUNTPL.md) |
 | [CTNCLN](Code/CTNCLN/sol.cpp) | [CTNCLN.md](Code/CTNCLN/CTNCLN.md) |
