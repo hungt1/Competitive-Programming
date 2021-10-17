@@ -3,7 +3,7 @@ Using [MathJax](https://chrome.google.com/webstore/detail/mathjax-3-plugin-for-g
 
 ## VNOJ Problems
 | Problem                         | Analysis                |
-| ----------- | ----------- |
+|:-------------------------------:| --------------------- |
 | [COUNTPL](Code/COUNTPL/sol.cpp) | [COUNTPL.md](Code/COUNTPL/COUNTPL.md) |
 | [CTNCLN](Code/CTNCLN/sol.cpp) | [CTNCLN.md](Code/CTNCLN/CTNCLN.md) |
 | [DEMSO](Code/DEMSO/sol.cpp) | [DEMSO.md](Code/DEMSO/DEMSO.md) |
