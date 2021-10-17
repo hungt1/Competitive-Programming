@@ -1,3 +1,6 @@
+## To Readable
+Using [MathJax](https://chrome.google.com/webstore/detail/mathjax-3-plugin-for-gith/peoghobgdhejhcmgoppjpjcidngdfkod) for being able to read mathematical formula.
+
 ## VNOJ Problems
 | Problem                         | Analysis                |
 | ----------- | ----------- |
@@ -13,7 +16,3 @@
 | [MTRIAREA](Code/MTRIAREA/sol.cpp) | [MTRIAREA.md](Code/MTRIAREA/MTRIAREA.md) |
 | [NKINV](Code/NKINV/sol.cpp) | [NKINV.md](Code/NKINV/NKINV.md) |
 | [VECTOR](Code/VECTOR/sol.cpp) | [VECTOR.md](Code/VECTOR/VECTOR.md) |
-
-
-## To Readable
-Using [MathJax](https://chrome.google.com/webstore/detail/mathjax-3-plugin-for-gith/peoghobgdhejhcmgoppjpjcidngdfkod) for being able to read mathematical formula.
