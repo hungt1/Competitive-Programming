@@ -1,8 +1,8 @@
 in
 ans
 sol
+gen
 *.exe
 *.txt
 .vscode
-*.md
 *.pdf
