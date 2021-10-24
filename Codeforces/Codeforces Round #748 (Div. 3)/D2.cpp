@@ -19,14 +19,12 @@ template <class T> void compress(T &a){
     sort(all(a)); a.resize(unique(all(a)) - a.begin());
 }
 
-const db pi = acos(-1.00);
-const db eps = 1e-6;
 const int INF = 2e9;
 const int MOD = 1e9 + 7;
 const int dx[4] = {0, 0, -1, 1};
 const int dy[4] = {-1, 1, 0, 0};
 
-const int N = 2e6 + 1;
+const int N = 2e6 + 2;
 int cnt[N];
 
 void solve(){
