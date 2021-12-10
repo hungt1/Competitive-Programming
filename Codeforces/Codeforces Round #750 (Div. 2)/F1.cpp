@@ -1,6 +1,6 @@
 /**
  *    author:    hungt1
- *    created:   22-11-2021   00:36:26
+ *    created:   24-10-2021   20:25:42
 **/
 #include <bits/stdc++.h>
 using namespace std;
@@ -29,9 +29,26 @@ const int dy[4] = {-1, 1, 0, 0};
 int main()
 {
     fastio;
-    int T; cin >> T;
-    while (T--){
-        
+    int n; cin >> n;
+    vector<int> dp(512, INF);
+    dp[0] = 0;
+    for (int i = 0; i < n; i++){
+        int x; cin >> x;
+        vector<int> nxt = dp;
+        for (int val = 0; val < 512; val++){
+            if (dp[val] <= x){
+                chmin(nxt[val ^ x], x);
+            }
+        }
+        swap(nxt, dp);
     }
+    vector<int> ans;
+    for (int i = 0; i < 512; i++){
+        if (dp[i] != INF){
+            ans.push_back(i);
+        }
+    }
+    cout << ans.size() << '\n';
+    for (int x : ans) cout << x << ' ';
     return 0;
 }

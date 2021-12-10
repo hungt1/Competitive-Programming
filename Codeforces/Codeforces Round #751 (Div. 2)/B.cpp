@@ -1,7 +1,3 @@
-/**
- *    author:    hungt1
- *    created:   22-11-2021   00:36:26
-**/
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -26,12 +22,30 @@ const int MOD = 1e9 + 7;
 const int dx[4] = {0, 0, -1, 1};
 const int dy[4] = {-1, 1, 0, 0};
 
+const int N = 2e3 + 1;
+int cnt[N];
+int a[N][N];
+
 int main()
 {
     fastio;
     int T; cin >> T;
     while (T--){
-        
+        int n; cin >> n;
+        for (int i = 1; i <= n; i++){
+            cin >> a[i][0];
+        }        
+        for (int i = 1; i <= n; i++){
+            for (int j = 1; j <= n; j++) cnt[a[j][i - 1]]++;
+            for (int j = 1; j <= n; j++) a[j][i] = cnt[a[j][i - 1]];
+            for (int j = 1; j <= n; j++) cnt[j] = 0;
+        }
+        int Q; cin >> Q;
+        while (Q--){
+            int x, k; cin >> x >> k;
+            chmin(k, n);
+            cout << a[x][k] << '\n';
+        }
     }
     return 0;
 }

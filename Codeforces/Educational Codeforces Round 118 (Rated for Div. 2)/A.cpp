@@ -1,6 +1,6 @@
 /**
  *    author:    hungt1
- *    created:   22-11-2021   00:36:26
+ *    created:   01-12-2021   21:37:18
 **/
 #include <bits/stdc++.h>
 using namespace std;
@@ -26,12 +26,32 @@ const int MOD = 1e9 + 7;
 const int dx[4] = {0, 0, -1, 1};
 const int dy[4] = {-1, 1, 0, 0};
 
+int get(int x){
+    int cnt = 0;
+    for (; x > 0; x /= 10, cnt++);
+    return cnt;
+}
+
 int main()
 {
     fastio;
     int T; cin >> T;
     while (T--){
-        
+        int x1, p1, x2, p2; cin >> x1 >> p1 >> x2 >> p2;
+        int a = get(x1) + p1;
+        int b = get(x2) + p2;
+        if (a < b){
+            cout << "<";
+        }        
+        else if (a > b){
+            cout << ">";
+        }
+        else {
+            while (get(x1) < get(x2)) x1 *= 10;
+            while (get(x2) < get(x1)) x2 *= 10;
+            cout << (x1 < x2 ? "<" : (x1 == x2) ? "=" : ">");
+        }
+        cout << '\n';
     }
     return 0;
 }

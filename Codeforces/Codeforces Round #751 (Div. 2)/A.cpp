@@ -1,6 +1,6 @@
 /**
  *    author:    hungt1
- *    created:   22-11-2021   00:36:26
+ *    created:   28-10-2021   22:47:15
 **/
 #include <bits/stdc++.h>
 using namespace std;
@@ -31,7 +31,14 @@ int main()
     fastio;
     int T; cin >> T;
     while (T--){
-        
+        string s; cin >> s;
+        int pos = 0;
+        for (int i = 0; i < s.length(); i++){
+            if (s[i] < s[pos]) pos = i;
+        }
+        cout << s[pos] << ' ';
+        s.erase(pos, 1);
+        cout << s << '\n';
     }
     return 0;
 }

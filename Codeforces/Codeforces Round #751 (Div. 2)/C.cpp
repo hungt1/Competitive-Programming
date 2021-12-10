@@ -1,7 +1,3 @@
-/**
- *    author:    hungt1
- *    created:   22-11-2021   00:36:26
-**/
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -31,7 +27,26 @@ int main()
     fastio;
     int T; cin >> T;
     while (T--){
-        
+        int n; cin >> n;
+        vector<int> cnt(30, 0);
+        for (int i = 0; i < n; i++){
+            int x; cin >> x;
+            for (int j = 0; j < 30; j++){
+                cnt[j] += (x >> j & 1);
+            }
+        }
+
+        auto check = [&](int k){
+            for (int i = 0; i < 30; i++){
+                if (cnt[i] % k) return false;
+            }
+            return true;
+        };
+
+        for (int i = 1; i <= n; i++){
+            if (check(i)) cout << i << ' ';
+        }
+        cout << '\n';
     }
     return 0;
 }

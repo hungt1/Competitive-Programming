@@ -1,6 +1,6 @@
 /**
  *    author:    hungt1
- *    created:   22-11-2021   00:36:26
+ *    created:   30-10-2021   16:45:17
 **/
 #include <bits/stdc++.h>
 using namespace std;
@@ -29,9 +29,22 @@ const int dy[4] = {-1, 1, 0, 0};
 int main()
 {
     fastio;
-    int T; cin >> T;
-    while (T--){
-        
+    int n, m, k; cin >> n >> m >> k;
+    if (n % 2 == 0){
+        cout << "Marsel";
+    }
+    else {
+        for (int i = 1; i * i <= m; i++){
+            if (m % i == 0){
+                int x1 = i;
+                int x2 = m / i;
+                if ((x2 != 1 && x1 >= k) || (x1 != 1 && x2 >= k)) {
+                    cout << "Timur";
+                    return 0;
+                }
+            }
+        }        
+        cout << "Marsel";
     }
     return 0;
 }

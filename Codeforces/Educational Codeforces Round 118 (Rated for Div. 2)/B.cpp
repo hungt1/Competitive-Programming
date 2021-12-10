@@ -1,6 +1,6 @@
 /**
  *    author:    hungt1
- *    created:   22-11-2021   00:36:26
+ *    created:   01-12-2021   21:41:41
 **/
 #include <bits/stdc++.h>
 using namespace std;
@@ -26,12 +26,32 @@ const int MOD = 1e9 + 7;
 const int dx[4] = {0, 0, -1, 1};
 const int dy[4] = {-1, 1, 0, 0};
 
+void solve(){
+    int n; cin >> n;
+    vector<int> a(n);
+    for (int &x : a) cin >> x;
+    vector<pii> ans;
+    sort(all(a)); 
+    for (int i = 0; i < n; i++){
+        if (ans.size() == n / 2) break;
+        for (int j = i + 1; j < n; j++){
+            if (!binary_search(all(a), a[j] % a[i])){
+                ans.push_back({a[j], a[i]});
+            }
+            if (ans.size() == n / 2) break;
+        }
+    }
+    for (auto [x, y] : ans){
+        cout << x << ' ' << y << '\n';
+    }
+}
+
 int main()
 {
     fastio;
     int T; cin >> T;
     while (T--){
-        
+        solve();
     }
     return 0;
 }
