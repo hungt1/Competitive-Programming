@@ -42,7 +42,7 @@
 | [Towers](https://cses.fi/problemset/task/1073/) | [1073.cpp](./Sorting%20and%20Searching/1073.cpp) |
 | [Traffic Lights](https://cses.fi/problemset/task/1163/) | [1163.cpp](./Sorting%20and%20Searching/1163.cpp) |
 | [Josephus Problem I](https://cses.fi/problemset/task/2162/) | [2162.cpp](./Sorting%20and%20Searching/2162.cpp) |
-| [Josephus Problem II](https://cses.fi/problemset/task/2163/) | |
+| [Josephus Problem II](https://cses.fi/problemset/task/2163/) | [2163.cpp](./Sorting%20and%20Searching/2163.cpp) |
 | [Nested Ranges Check](https://cses.fi/problemset/task/2168/) | [2168.cpp](./Sorting%20and%20Searching/2168.cpp) |
 | [Nested Ranges Count](https://cses.fi/problemset/task/2169/) | [2169.cpp](./Sorting%20and%20Searching/2169.cpp) |
 | [Room Allocation](https://cses.fi/problemset/task/1164/) | [1164.cpp](./Sorting%20and%20Searching/1164.cpp) |
@@ -139,9 +139,9 @@
 | [List Removals](https://cses.fi/problemset/task/1749/) | [1749.cpp](./Range%20Queries/1749.cpp) |
 | [Salary Queries](https://cses.fi/problemset/task/1144/) | [1144.cpp](./Range%20Queries/1144.cpp) |
 | [Prefix Sum Queries](https://cses.fi/problemset/task/2166/) | [2166.cpp](./Range%20Queries/2166.cpp) |
-| [Pizzeria Queries](https://cses.fi/problemset/task/2206/) | |
-| [Subarray Sum Queries](https://cses.fi/problemset/task/1190/) | |
-| [Distinct Values Queries](https://cses.fi/problemset/task/1734/) | |
+| [Pizzeria Queries](https://cses.fi/problemset/task/2206/) | [2206.cpp](./Range%20Queries/2206.cpp) |
+| [Subarray Sum Queries](https://cses.fi/problemset/task/1190/) | [1190.cpp](./Range%20Queries/1190.cpp) |
+| [Distinct Values Queries](https://cses.fi/problemset/task/1734/) | [1734.cpp](./Range%20Queries/1734.cpp) |
 | [Increasing Array Queries](https://cses.fi/problemset/task/2416/) | |
 | [Forest Queries II](https://cses.fi/problemset/task/1739/) | |
 | [Range Updates and Sums](https://cses.fi/problemset/task/1735/) | |
@@ -151,11 +151,11 @@
 ### Tree Algorithms
 | Problem                                                           | Solution                             |
 | ----------------------------------------------------------------- | ------------------------------------ |
-| [Subordinates](https://cses.fi/problemset/task/1674/) | |
-| [Tree Matching](https://cses.fi/problemset/task/1130/) | |
-| [Tree Diameter](https://cses.fi/problemset/task/1131/) | |
-| [Tree Distances I](https://cses.fi/problemset/task/1132/) | |
-| [Tree Distances II](https://cses.fi/problemset/task/1133/) | |
+| [Subordinates](https://cses.fi/problemset/task/1674/) | [1674.cpp](./Tree%20Algorithms/1674.cpp) |
+| [Tree Matching](https://cses.fi/problemset/task/1130/) | [1130.cpp](./Tree%20Algorithms/1130.cpp) |
+| [Tree Diameter](https://cses.fi/problemset/task/1131/) | [1131.cpp](./Tree%20Algorithms/1131.cpp) |
+| [Tree Distances I](https://cses.fi/problemset/task/1132/) | [1132.cpp](./Tree%20Algorithms/1132.cpp) |
+| [Tree Distances II](https://cses.fi/problemset/task/1133/) | [1133.cpp](./Tree%20Algorithms/1133.cpp) |
 | [Company Queries I](https://cses.fi/problemset/task/1687/) | |
 | [Company Queries II](https://cses.fi/problemset/task/1688/) | |
 | [Distance Queries](https://cses.fi/problemset/task/1135/) | |
@@ -172,10 +172,10 @@
 | Problem                                                           | Solution                             |
 | ----------------------------------------------------------------- | ------------------------------------ |
 | [Josephus Queries](https://cses.fi/problemset/task/2164/) | |
-| [Exponentiation](https://cses.fi/problemset/task/1095/) | |
-| [Exponentiation II](https://cses.fi/problemset/task/1712/) | |
-| [Counting Divisors](https://cses.fi/problemset/task/1713/) | |
-| [Common Divisors](https://cses.fi/problemset/task/1081/) | |
+| [Exponentiation](https://cses.fi/problemset/task/1095/) | [1095.cpp](./Mathematics/1095.cpp) |
+| [Exponentiation II](https://cses.fi/problemset/task/1712/) | [1712.cpp](./Mathematics/1712.cpp) |
+| [Counting Divisors](https://cses.fi/problemset/task/1713/) | [1713.cpp](./Mathematics/1713.cpp) |
+| [Common Divisors](https://cses.fi/problemset/task/1081/) | [1081.cpp](./Mathematics/1081.cpp) |
 | [Sum of Divisors](https://cses.fi/problemset/task/1082/) | |
 | [Divisor Analysis](https://cses.fi/problemset/task/2182/) | |
 | [Prime Multiples](https://cses.fi/problemset/task/2185/) | |
