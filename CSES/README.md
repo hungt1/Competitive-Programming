@@ -1,4 +1,5 @@
-## CSES Solutions
+# CSES Solutions
+## Table of contents
 ### Introductory Problems
 | Problem                                                           | Solution                             |
 | ----------------------------------------------------------------- | ------------------------------------ |
