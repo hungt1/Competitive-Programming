@@ -2,114 +2,114 @@
 ### Introductory Problems
 | Problem                                                           | Solution                             |
 | ----------------------------------------------------------------- | ------------------------------------ |
-| [Weird Algorithm](https://cses.fi/problemset/task/1068/) | [1068.cpp](./Introductory%Problems/1068.cpp) |
-| [Missing Number](https://cses.fi/problemset/task/1083/) | [1083.cpp](./Introductory%Problems/1083.cpp) |
-| [Repetitions](https://cses.fi/problemset/task/1069/) | [1069.cpp](./Introductory%Problems/1069.cpp) |
-| [Increasing Array](https://cses.fi/problemset/task/1094/) | [1094.cpp](./Introductory%Problems/1094.cpp) |
-| [Permutations](https://cses.fi/problemset/task/1070/) | [1070.cpp](./Introductory%Problems/1070.cpp) |
-| [Number Spiral](https://cses.fi/problemset/task/1071/) | [1071.cpp](./Introductory%Problems/1071.cpp) |
-| [Two Knights](https://cses.fi/problemset/task/1072/) | [1072.cpp](./Introductory%Problems/1072.cpp) |
-| [Two Sets](https://cses.fi/problemset/task/1092/) | [1092.cpp](./Introductory%Problems/1092.cpp) |
-| [Bit Strings](https://cses.fi/problemset/task/1617/) | [1617.cpp](./Introductory%Problems/1617.cpp) |
-| [Trailing Zeros](https://cses.fi/problemset/task/1618/) | [1618.cpp](./Introductory%Problems/1618.cpp) |
-| [Coin Piles](https://cses.fi/problemset/task/1754/) | [1754.cpp](./Introductory%Problems/1754.cpp) |
-| [Palindrome Reorder](https://cses.fi/problemset/task/1755/) | [1755.cpp](./Introductory%Problems/1755.cpp) |
-| [Gray Code](https://cses.fi/problemset/task/2205/) | [2205.cpp](./Introductory%Problems/2205.cpp) |
-| [Tower of Hanoi](https://cses.fi/problemset/task/2165/) | [2165.cpp](./Introductory%Problems/2165.cpp) |
-| [Creating Strings](https://cses.fi/problemset/task/1622/) | [1622.cpp](./Introductory%Problems/1622.cpp) |
-| [Apple Division](https://cses.fi/problemset/task/1623/) | [1623.cpp](./Introductory%Problems/1623.cpp) |
-| [Chessboard and Queens](https://cses.fi/problemset/task/1624/) | [1624.cpp](./Introductory%Problems/1624.cpp) |
-| [Digit Queries](https://cses.fi/problemset/task/2431/) | [2431.cpp](./Introductory%Problems/2431.cpp) |
-| [Grid Paths](https://cses.fi/problemset/task/1625/) | [1625.cpp](./Introductory%Problems/1625.cpp) |
+| [Weird Algorithm](https://cses.fi/problemset/task/1068/) | [1068.cpp](./Introductory%20Problems/1068.cpp) |
+| [Missing Number](https://cses.fi/problemset/task/1083/) | [1083.cpp](./Introductory%20Problems/1083.cpp) |
+| [Repetitions](https://cses.fi/problemset/task/1069/) | [1069.cpp](./Introductory%20Problems/1069.cpp) |
+| [Increasing Array](https://cses.fi/problemset/task/1094/) | [1094.cpp](./Introductory%20Problems/1094.cpp) |
+| [Permutations](https://cses.fi/problemset/task/1070/) | [1070.cpp](./Introductory%20Problems/1070.cpp) |
+| [Number Spiral](https://cses.fi/problemset/task/1071/) | [1071.cpp](./Introductory%20Problems/1071.cpp) |
+| [Two Knights](https://cses.fi/problemset/task/1072/) | [1072.cpp](./Introductory%20Problems/1072.cpp) |
+| [Two Sets](https://cses.fi/problemset/task/1092/) | [1092.cpp](./Introductory%20Problems/1092.cpp) |
+| [Bit Strings](https://cses.fi/problemset/task/1617/) | [1617.cpp](./Introductory%20Problems/1617.cpp) |
+| [Trailing Zeros](https://cses.fi/problemset/task/1618/) | [1618.cpp](./Introductory%20Problems/1618.cpp) |
+| [Coin Piles](https://cses.fi/problemset/task/1754/) | [1754.cpp](./Introductory%20Problems/1754.cpp) |
+| [Palindrome Reorder](https://cses.fi/problemset/task/1755/) | [1755.cpp](./Introductory%20Problems/1755.cpp) |
+| [Gray Code](https://cses.fi/problemset/task/2205/) | [2205.cpp](./Introductory%20Problems/2205.cpp) |
+| [Tower of Hanoi](https://cses.fi/problemset/task/2165/) | [2165.cpp](./Introductory%20Problems/2165.cpp) |
+| [Creating Strings](https://cses.fi/problemset/task/1622/) | [1622.cpp](./Introductory%20Problems/1622.cpp) |
+| [Apple Division](https://cses.fi/problemset/task/1623/) | [1623.cpp](./Introductory%20Problems/1623.cpp) |
+| [Chessboard and Queens](https://cses.fi/problemset/task/1624/) | [1624.cpp](./Introductory%20Problems/1624.cpp) |
+| [Digit Queries](https://cses.fi/problemset/task/2431/) | [2431.cpp](./Introductory%20Problems/2431.cpp) |
+| [Grid Paths](https://cses.fi/problemset/task/1625/) | [1625.cpp](./Introductory%20Problems/1625.cpp) |
 
 ### Sorting and Searching
 | Problem                                                           | Solution                             |
 | ----------------------------------------------------------------- | ------------------------------------ |
-| [Distinct Numbers](https://cses.fi/problemset/task/1621/) | [1621.cpp](./Sorting%and%Searching/1621.cpp) |
-| [Apartments](https://cses.fi/problemset/task/1084/) | [1084.cpp](./Sorting%and%Searching/1084.cpp) |
-| [Ferris Wheel](https://cses.fi/problemset/task/1090/) | [1090.cpp](./Sorting%and%Searching/1090.cpp) |
-| [Concert Tickets](https://cses.fi/problemset/task/1091/) | [1091.cpp](./Sorting%and%Searching/1091.cpp) |
-| [Restaurant Customers](https://cses.fi/problemset/task/1619/) | [1619.cpp](./Sorting%and%Searching/1619.cpp) |
-| [Movie Festival](https://cses.fi/problemset/task/1629/) | [1629.cpp](./Sorting%and%Searching/1629.cpp) |
-| [Sum of Two Values](https://cses.fi/problemset/task/1640/) | [1640.cpp](./Sorting%and%Searching/1640.cpp) |
-| [Maximum Subarray Sum](https://cses.fi/problemset/task/1643/) | [1643.cpp](./Sorting%and%Searching/1643.cpp) |
-| [Stick Lengths](https://cses.fi/problemset/task/1074/) | [1074.cpp](./Sorting%and%Searching/1074.cpp) |
-| [Missing Coin Sum](https://cses.fi/problemset/task/2183/) | [2183.cpp](./Sorting%and%Searching/2183.cpp) |
-| [Collecting Numbers](https://cses.fi/problemset/task/2216/) | [2216.cpp](./Sorting%and%Searching/2216.cpp) |
-| [Collecting Numbers II](https://cses.fi/problemset/task/2217/) | [2217.cpp](./Sorting%and%Searching/2217.cpp) |
-| [Playlist](https://cses.fi/problemset/task/1141/) | [1141.cpp](./Sorting%and%Searching/1141.cpp) |
-| [Towers](https://cses.fi/problemset/task/1073/) | [1073.cpp](./Sorting%and%Searching/1073.cpp) |
-| [Traffic Lights](https://cses.fi/problemset/task/1163/) | [1163.cpp](./Sorting%and%Searching/1163.cpp) |
-| [Josephus Problem I](https://cses.fi/problemset/task/2162/) | [2162.cpp](./Sorting%and%Searching/2162.cpp) |
+| [Distinct Numbers](https://cses.fi/problemset/task/1621/) | [1621.cpp](./Sorting%20and%20Searching/1621.cpp) |
+| [Apartments](https://cses.fi/problemset/task/1084/) | [1084.cpp](./Sorting%20and%20Searching/1084.cpp) |
+| [Ferris Wheel](https://cses.fi/problemset/task/1090/) | [1090.cpp](./Sorting%20and%20Searching/1090.cpp) |
+| [Concert Tickets](https://cses.fi/problemset/task/1091/) | [1091.cpp](./Sorting%20and%20Searching/1091.cpp) |
+| [Restaurant Customers](https://cses.fi/problemset/task/1619/) | [1619.cpp](./Sorting%20and%20Searching/1619.cpp) |
+| [Movie Festival](https://cses.fi/problemset/task/1629/) | [1629.cpp](./Sorting%20and%20Searching/1629.cpp) |
+| [Sum of Two Values](https://cses.fi/problemset/task/1640/) | [1640.cpp](./Sorting%20and%20Searching/1640.cpp) |
+| [Maximum Subarray Sum](https://cses.fi/problemset/task/1643/) | [1643.cpp](./Sorting%20and%20Searching/1643.cpp) |
+| [Stick Lengths](https://cses.fi/problemset/task/1074/) | [1074.cpp](./Sorting%20and%20Searching/1074.cpp) |
+| [Missing Coin Sum](https://cses.fi/problemset/task/2183/) | [2183.cpp](./Sorting%20and%20Searching/2183.cpp) |
+| [Collecting Numbers](https://cses.fi/problemset/task/2216/) | [2216.cpp](./Sorting%20and%20Searching/2216.cpp) |
+| [Collecting Numbers II](https://cses.fi/problemset/task/2217/) | [2217.cpp](./Sorting%20and%20Searching/2217.cpp) |
+| [Playlist](https://cses.fi/problemset/task/1141/) | [1141.cpp](./Sorting%20and%20Searching/1141.cpp) |
+| [Towers](https://cses.fi/problemset/task/1073/) | [1073.cpp](./Sorting%20and%20Searching/1073.cpp) |
+| [Traffic Lights](https://cses.fi/problemset/task/1163/) | [1163.cpp](./Sorting%20and%20Searching/1163.cpp) |
+| [Josephus Problem I](https://cses.fi/problemset/task/2162/) | [2162.cpp](./Sorting%20and%20Searching/2162.cpp) |
 | [Josephus Problem II](https://cses.fi/problemset/task/2163/) | |
-| [Nested Ranges Check](https://cses.fi/problemset/task/2168/) | [2168.cpp](./Sorting%and%Searching/2168.cpp) |
-| [Nested Ranges Count](https://cses.fi/problemset/task/2169/) | [2169.cpp](./Sorting%and%Searching/2169.cpp) |
-| [Room Allocation](https://cses.fi/problemset/task/1164/) | [1164.cpp](./Sorting%and%Searching/1164.cpp) |
-| [Factory Machines](https://cses.fi/problemset/task/1620/) | [1620.cpp](./Sorting%and%Searching/1620.cpp) |
-| [Tasks and Deadlines](https://cses.fi/problemset/task/1630/) | [1630.cpp](./Sorting%and%Searching/1630.cpp) |
-| [Reading Books](https://cses.fi/problemset/task/1631/) | [1631.cpp](./Sorting%and%Searching/1631.cpp) |
-| [Sum of Three Values](https://cses.fi/problemset/task/1641/) | [1641.cpp](./Sorting%and%Searching/1641.cpp) |
-| [Sum of Four Values](https://cses.fi/problemset/task/1642/) | [1642.cpp](./Sorting%and%Searching/1642.cpp) |
-| [Nearest Smaller Values](https://cses.fi/problemset/task/1645/) | [1645.cpp](./Sorting%and%Searching/1645.cpp) |
-| [Subarray Sums I](https://cses.fi/problemset/task/1660/) | [1660.cpp](./Sorting%and%Searching/1660.cpp) |
-| [Subarray Sums II](https://cses.fi/problemset/task/1661/) | [1661.cpp](./Sorting%and%Searching/1661.cpp) |
-| [Subarray Divisibility](https://cses.fi/problemset/task/1662/) | [1662.cpp](./Sorting%and%Searching/1662.cpp) |
-| [Subarray Distinct Values](https://cses.fi/problemset/task/2428/) | [2428.cpp](./Sorting%and%Searching/2428.cpp) |
-| [Array Division](https://cses.fi/problemset/task/1085/) | [1085.cpp](./Sorting%and%Searching/1085.cpp) |
-| [Sliding Median](https://cses.fi/problemset/task/1076/) | [1076.cpp](./Sorting%and%Searching/1076.cpp) |
-| [Sliding Cost](https://cses.fi/problemset/task/1077/) | [1077.cpp](./Sorting%and%Searching/1077.cpp) |
-| [Movie Festival II](https://cses.fi/problemset/task/1632/) | [1632.cpp](./Sorting%and%Searching/1632.cpp) |
-| [Maximum Subarray Sum II](https://cses.fi/problemset/task/1644/) | [1644.cpp](./Sorting%and%Searching/1644.cpp) |
+| [Nested Ranges Check](https://cses.fi/problemset/task/2168/) | [2168.cpp](./Sorting%20and%20Searching/2168.cpp) |
+| [Nested Ranges Count](https://cses.fi/problemset/task/2169/) | [2169.cpp](./Sorting%20and%20Searching/2169.cpp) |
+| [Room Allocation](https://cses.fi/problemset/task/1164/) | [1164.cpp](./Sorting%20and%20Searching/1164.cpp) |
+| [Factory Machines](https://cses.fi/problemset/task/1620/) | [1620.cpp](./Sorting%20and%20Searching/1620.cpp) |
+| [Tasks and Deadlines](https://cses.fi/problemset/task/1630/) | [1630.cpp](./Sorting%20and%20Searching/1630.cpp) |
+| [Reading Books](https://cses.fi/problemset/task/1631/) | [1631.cpp](./Sorting%20and%20Searching/1631.cpp) |
+| [Sum of Three Values](https://cses.fi/problemset/task/1641/) | [1641.cpp](./Sorting%20and%20Searching/1641.cpp) |
+| [Sum of Four Values](https://cses.fi/problemset/task/1642/) | [1642.cpp](./Sorting%20and%20Searching/1642.cpp) |
+| [Nearest Smaller Values](https://cses.fi/problemset/task/1645/) | [1645.cpp](./Sorting%20and%20Searching/1645.cpp) |
+| [Subarray Sums I](https://cses.fi/problemset/task/1660/) | [1660.cpp](./Sorting%20and%20Searching/1660.cpp) |
+| [Subarray Sums II](https://cses.fi/problemset/task/1661/) | [1661.cpp](./Sorting%20and%20Searching/1661.cpp) |
+| [Subarray Divisibility](https://cses.fi/problemset/task/1662/) | [1662.cpp](./Sorting%20and%20Searching/1662.cpp) |
+| [Subarray Distinct Values](https://cses.fi/problemset/task/2428/) | [2428.cpp](./Sorting%20and%20Searching/2428.cpp) |
+| [Array Division](https://cses.fi/problemset/task/1085/) | [1085.cpp](./Sorting%20and%20Searching/1085.cpp) |
+| [Sliding Median](https://cses.fi/problemset/task/1076/) | [1076.cpp](./Sorting%20and%20Searching/1076.cpp) |
+| [Sliding Cost](https://cses.fi/problemset/task/1077/) | [1077.cpp](./Sorting%20and%20Searching/1077.cpp) |
+| [Movie Festival II](https://cses.fi/problemset/task/1632/) | [1632.cpp](./Sorting%20and%20Searching/1632.cpp) |
+| [Maximum Subarray Sum II](https://cses.fi/problemset/task/1644/) | [1644.cpp](./Sorting%20and%20Searching/1644.cpp) |
 
 ### Dynamic Programming
 | Problem                                                           | Solution                             |
 | ----------------------------------------------------------------- | ------------------------------------ |
-| [Dice Combinations](https://cses.fi/problemset/task/1633/) | [1633.cpp](./Dynamic%Programming/1633.cpp) |
-| [Minimizing Coins](https://cses.fi/problemset/task/1634/) | [1634.cpp](./Dynamic%Programming/1634.cpp) |
-| [Coin Combinations I](https://cses.fi/problemset/task/1635/) | [1635.cpp](./Dynamic%Programming/1635.cpp) |
-| [Coin Combinations II](https://cses.fi/problemset/task/1636/) | [1636.cpp](./Dynamic%Programming/1636.cpp) |
-| [Removing Digits](https://cses.fi/problemset/task/1637/) | [1637.cpp](./Dynamic%Programming/1637.cpp) |
-| [Grid Paths](https://cses.fi/problemset/task/1638/) | [1638.cpp](./Dynamic%Programming/1638.cpp) |
-| [Book Shop](https://cses.fi/problemset/task/1158/) | [1158.cpp](./Dynamic%Programming/1158.cpp) |
-| [Array Description](https://cses.fi/problemset/task/1746/) | [1746.cpp](./Dynamic%Programming/1746.cpp) |
-| [Counting Towers](https://cses.fi/problemset/task/2413/) | [2413.cpp](./Dynamic%Programming/2413.cpp) |
-| [Edit Distance](https://cses.fi/problemset/task/1639/) | [1639.cpp](./Dynamic%Programming/1639.cpp) |
-| [Rectangle Cutting](https://cses.fi/problemset/task/1744/) | [1744.cpp](./Dynamic%Programming/1744.cpp) |
-| [Money Sums](https://cses.fi/problemset/task/1745/) | [1745.cpp](./Dynamic%Programming/1745.cpp) |
-| [Removal Game](https://cses.fi/problemset/task/1097/) | [1097.cpp](./Dynamic%Programming/1097.cpp) |
-| [Two Sets II](https://cses.fi/problemset/task/1093/) | [1093.cpp](./Dynamic%Programming/1093.cpp) |
-| [Increasing Subsequence](https://cses.fi/problemset/task/1145/) | [1145.cpp](./Dynamic%Programming/1145.cpp) |
-| [Projects](https://cses.fi/problemset/task/1140/) | [1140.cpp](./Dynamic%Programming/1140.cpp) |
-| [Elevator Rides](https://cses.fi/problemset/task/1653/) | [1653.cpp](./Dynamic%Programming/1653.cpp) |
-| [Counting Tilings](https://cses.fi/problemset/task/2181/) | [2181.cpp](./Dynamic%Programming/2181.cpp) |
-| [Counting Numbers](https://cses.fi/problemset/task/2220/) | [2220.cpp](./Dynamic%Programming/2220.cpp) |
+| [Dice Combinations](https://cses.fi/problemset/task/1633/) | [1633.cpp](./Dynamic%20Programming/1633.cpp) |
+| [Minimizing Coins](https://cses.fi/problemset/task/1634/) | [1634.cpp](./Dynamic%20Programming/1634.cpp) |
+| [Coin Combinations I](https://cses.fi/problemset/task/1635/) | [1635.cpp](./Dynamic%20Programming/1635.cpp) |
+| [Coin Combinations II](https://cses.fi/problemset/task/1636/) | [1636.cpp](./Dynamic%20Programming/1636.cpp) |
+| [Removing Digits](https://cses.fi/problemset/task/1637/) | [1637.cpp](./Dynamic%20Programming/1637.cpp) |
+| [Grid Paths](https://cses.fi/problemset/task/1638/) | [1638.cpp](./Dynamic%20Programming/1638.cpp) |
+| [Book Shop](https://cses.fi/problemset/task/1158/) | [1158.cpp](./Dynamic%20Programming/1158.cpp) |
+| [Array Description](https://cses.fi/problemset/task/1746/) | [1746.cpp](./Dynamic%20Programming/1746.cpp) |
+| [Counting Towers](https://cses.fi/problemset/task/2413/) | [2413.cpp](./Dynamic%20Programming/2413.cpp) |
+| [Edit Distance](https://cses.fi/problemset/task/1639/) | [1639.cpp](./Dynamic%20Programming/1639.cpp) |
+| [Rectangle Cutting](https://cses.fi/problemset/task/1744/) | [1744.cpp](./Dynamic%20Programming/1744.cpp) |
+| [Money Sums](https://cses.fi/problemset/task/1745/) | [1745.cpp](./Dynamic%20Programming/1745.cpp) |
+| [Removal Game](https://cses.fi/problemset/task/1097/) | [1097.cpp](./Dynamic%20Programming/1097.cpp) |
+| [Two Sets II](https://cses.fi/problemset/task/1093/) | [1093.cpp](./Dynamic%20Programming/1093.cpp) |
+| [Increasing Subsequence](https://cses.fi/problemset/task/1145/) | [1145.cpp](./Dynamic%20Programming/1145.cpp) |
+| [Projects](https://cses.fi/problemset/task/1140/) | [1140.cpp](./Dynamic%20Programming/1140.cpp) |
+| [Elevator Rides](https://cses.fi/problemset/task/1653/) | [1653.cpp](./Dynamic%20Programming/1653.cpp) |
+| [Counting Tilings](https://cses.fi/problemset/task/2181/) | [2181.cpp](./Dynamic%20Programming/2181.cpp) |
+| [Counting Numbers](https://cses.fi/problemset/task/2220/) | [2220.cpp](./Dynamic%20Programming/2220.cpp) |
 
 ### Graph Algorithms
 | Problem                                                           | Solution                             |
 | ----------------------------------------------------------------- | ------------------------------------ |
-| [Counting Rooms](https://cses.fi/problemset/task/1192/) | [1192.cpp](./Graph%Algorithms/1192.cpp) |
-| [Labyrinth](https://cses.fi/problemset/task/1193/) | [1193.cpp](./Graph%Algorithms/1193.cpp) |
-| [Building Roads](https://cses.fi/problemset/task/1666/) | [1666.cpp](./Graph%Algorithms/1666.cpp) |
-| [Message Route](https://cses.fi/problemset/task/1667/) | [1667.cpp](./Graph%Algorithms/1667.cpp) |
-| [Building Teams](https://cses.fi/problemset/task/1668/) | [1668.cpp](./Graph%Algorithms/1668.cpp) |
-| [Round Trip](https://cses.fi/problemset/task/1669/) | [1669.cpp](./Graph%Algorithms/1669.cpp) |
-| [Monsters](https://cses.fi/problemset/task/1194/) | [1194.cpp](./Graph%Algorithms/1194.cpp) |
-| [Shortest Routes I](https://cses.fi/problemset/task/1671/) | [1671.cpp](./Graph%Algorithms/1671.cpp) |
-| [Shortest Routes II](https://cses.fi/problemset/task/1672/) | [1672.cpp](./Graph%Algorithms/1672.cpp) |
-| [High Score](https://cses.fi/problemset/task/1673/) | [1673.cpp](./Graph%Algorithms/1673.cpp) |
-| [Flight Discount](https://cses.fi/problemset/task/1195/) | [1195.cpp](./Graph%Algorithms/1195.cpp) |
-| [Cycle Finding](https://cses.fi/problemset/task/1197/) | [1197.cpp](./Graph%Algorithms/1197.cpp) |
-| [Flight Routes](https://cses.fi/problemset/task/1196/) | [1196.cpp](./Graph%Algorithms/1196.cpp) |
-| [Round Trip II](https://cses.fi/problemset/task/1678/) | [1678.cpp](./Graph%Algorithms/1678.cpp) |
-| [Course Schedule](https://cses.fi/problemset/task/1679/) | [1679.cpp](./Graph%Algorithms/1679.cpp) |
-| [Longest Flight Route](https://cses.fi/problemset/task/1680/) | [1680.cpp](./Graph%Algorithms/1680.cpp) |
-| [Game Routes](https://cses.fi/problemset/task/1681/) | [1681.cpp](./Graph%Algorithms/1681.cpp) |
-| [Investigation](https://cses.fi/problemset/task/1202/) | [1202.cpp](./Graph%Algorithms/1202.cpp) |
-| [Planets Queries I](https://cses.fi/problemset/task/1750/) | [1750.cpp](./Graph%Algorithms/1750.cpp) |
+| [Counting Rooms](https://cses.fi/problemset/task/1192/) | [1192.cpp](./Graph%20Algorithms/1192.cpp) |
+| [Labyrinth](https://cses.fi/problemset/task/1193/) | [1193.cpp](./Graph%20Algorithms/1193.cpp) |
+| [Building Roads](https://cses.fi/problemset/task/1666/) | [1666.cpp](./Graph%20Algorithms/1666.cpp) |
+| [Message Route](https://cses.fi/problemset/task/1667/) | [1667.cpp](./Graph%20Algorithms/1667.cpp) |
+| [Building Teams](https://cses.fi/problemset/task/1668/) | [1668.cpp](./Graph%20Algorithms/1668.cpp) |
+| [Round Trip](https://cses.fi/problemset/task/1669/) | [1669.cpp](./Graph%20Algorithms/1669.cpp) |
+| [Monsters](https://cses.fi/problemset/task/1194/) | [1194.cpp](./Graph%20Algorithms/1194.cpp) |
+| [Shortest Routes I](https://cses.fi/problemset/task/1671/) | [1671.cpp](./Graph%20Algorithms/1671.cpp) |
+| [Shortest Routes II](https://cses.fi/problemset/task/1672/) | [1672.cpp](./Graph%20Algorithms/1672.cpp) |
+| [High Score](https://cses.fi/problemset/task/1673/) | [1673.cpp](./Graph%20Algorithms/1673.cpp) |
+| [Flight Discount](https://cses.fi/problemset/task/1195/) | [1195.cpp](./Graph%20Algorithms/1195.cpp) |
+| [Cycle Finding](https://cses.fi/problemset/task/1197/) | [1197.cpp](./Graph%20Algorithms/1197.cpp) |
+| [Flight Routes](https://cses.fi/problemset/task/1196/) | [1196.cpp](./Graph%20Algorithms/1196.cpp) |
+| [Round Trip II](https://cses.fi/problemset/task/1678/) | [1678.cpp](./Graph%20Algorithms/1678.cpp) |
+| [Course Schedule](https://cses.fi/problemset/task/1679/) | [1679.cpp](./Graph%20Algorithms/1679.cpp) |
+| [Longest Flight Route](https://cses.fi/problemset/task/1680/) | [1680.cpp](./Graph%20Algorithms/1680.cpp) |
+| [Game Routes](https://cses.fi/problemset/task/1681/) | [1681.cpp](./Graph%20Algorithms/1681.cpp) |
+| [Investigation](https://cses.fi/problemset/task/1202/) | [1202.cpp](./Graph%20Algorithms/1202.cpp) |
+| [Planets Queries I](https://cses.fi/problemset/task/1750/) | [1750.cpp](./Graph%20Algorithms/1750.cpp) |
 | [Planets Queries II](https://cses.fi/problemset/task/1160/) | |
 | [Planets Cycles](https://cses.fi/problemset/task/1751/) | |
-| [Road Reparation](https://cses.fi/problemset/task/1675/) | [1675.cpp](./Graph%Algorithms/1675.cpp) |
-| [Road Construction](https://cses.fi/problemset/task/1676/) | [1676.cpp](./Graph%Algorithms/1676.cpp) |
+| [Road Reparation](https://cses.fi/problemset/task/1675/) | [1675.cpp](./Graph%20Algorithms/1675.cpp) |
+| [Road Construction](https://cses.fi/problemset/task/1676/) | [1676.cpp](./Graph%20Algorithms/1676.cpp) |
 | [Flight Routes Check](https://cses.fi/problemset/task/1682/) | |
 | [Planets and Kingdoms](https://cses.fi/problemset/task/1683/) | |
 | [Giant Pizza](https://cses.fi/problemset/task/1684/) | |
@@ -120,20 +120,20 @@
 | [Hamiltonian Flights](https://cses.fi/problemset/task/1690/) | |
 | [Knight's Tour](https://cses.fi/problemset/task/1689/) | |
 | [Download Speed](https://cses.fi/problemset/task/1694/) | |
-| [Police Chase](https://cses.fi/problemset/task/1695/) | [1695.cpp](./Graph%Algorithms/1695.cpp) |
+| [Police Chase](https://cses.fi/problemset/task/1695/) | [1695.cpp](./Graph%20Algorithms/1695.cpp) |
 | [School Dance](https://cses.fi/problemset/task/1696/) | |
 | [Distinct Routes](https://cses.fi/problemset/task/1711/) | |
 
 ### Range Queries
 | Problem                                                           | Solution                             |
 | ----------------------------------------------------------------- | ------------------------------------ |
-| [Static Range Sum Queries](https://cses.fi/problemset/task/1646/) | [1646.cpp](./Range%Queries/1646.cpp) |
-| [Static Range Minimum Queries](https://cses.fi/problemset/task/1647/) | [1647.cpp](./Range%Queries/1647.cpp) |
-| [Dynamic Range Sum Queries](https://cses.fi/problemset/task/1648/) | [1648.cpp](./Range%Queries/1648.cpp) |
-| [Dynamic Range Minimum Queries](https://cses.fi/problemset/task/1649/) | [1649.cpp](./Range%Queries/1649.cpp) |
-| [Range Xor Queries](https://cses.fi/problemset/task/1650/) | [1650.cpp](./Range%Queries/1650.cpp) |
-| [Range Update Queries](https://cses.fi/problemset/task/1651/) | [1651.cpp](./Range%Queries/1651.cpp) |
-| [Forest Queries](https://cses.fi/problemset/task/1652/) | [1652.cpp](./Range%Queries/1652.cpp) |
+| [Static Range Sum Queries](https://cses.fi/problemset/task/1646/) | [1646.cpp](./Range%20Queries/1646.cpp) |
+| [Static Range Minimum Queries](https://cses.fi/problemset/task/1647/) | [1647.cpp](./Range%20Queries/1647.cpp) |
+| [Dynamic Range Sum Queries](https://cses.fi/problemset/task/1648/) | [1648.cpp](./Range%20Queries/1648.cpp) |
+| [Dynamic Range Minimum Queries](https://cses.fi/problemset/task/1649/) | [1649.cpp](./Range%20Queries/1649.cpp) |
+| [Range Xor Queries](https://cses.fi/problemset/task/1650/) | [1650.cpp](./Range%20Queries/1650.cpp) |
+| [Range Update Queries](https://cses.fi/problemset/task/1651/) | [1651.cpp](./Range%20Queries/1651.cpp) |
+| [Forest Queries](https://cses.fi/problemset/task/1652/) | [1652.cpp](./Range%20Queries/1652.cpp) |
 | [Hotel Queries](https://cses.fi/problemset/task/1143/) | |
 | [List Removals](https://cses.fi/problemset/task/1749/) | |
 | [Salary Queries](https://cses.fi/problemset/task/1144/) | |
