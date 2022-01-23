@@ -135,10 +135,10 @@
 | [Range Xor Queries](https://cses.fi/problemset/task/1650/) | [1650.cpp](./Range%20Queries/1650.cpp) |
 | [Range Update Queries](https://cses.fi/problemset/task/1651/) | [1651.cpp](./Range%20Queries/1651.cpp) |
 | [Forest Queries](https://cses.fi/problemset/task/1652/) | [1652.cpp](./Range%20Queries/1652.cpp) |
-| [Hotel Queries](https://cses.fi/problemset/task/1143/) | |
-| [List Removals](https://cses.fi/problemset/task/1749/) | |
-| [Salary Queries](https://cses.fi/problemset/task/1144/) | |
-| [Prefix Sum Queries](https://cses.fi/problemset/task/2166/) | |
+| [Hotel Queries](https://cses.fi/problemset/task/1143/) | [1143.cpp](./Range%20Queries/1143.cpp) |
+| [List Removals](https://cses.fi/problemset/task/1749/) | [1749.cpp](./Range%20Queries/1749.cpp) |
+| [Salary Queries](https://cses.fi/problemset/task/1144/) | [1144.cpp](./Range%20Queries/1144.cpp) |
+| [Prefix Sum Queries](https://cses.fi/problemset/task/2166/) | [2166.cpp](./Range%20Queries/2166.cpp) |
 | [Pizzeria Queries](https://cses.fi/problemset/task/2206/) | |
 | [Subarray Sum Queries](https://cses.fi/problemset/task/1190/) | |
 | [Distinct Values Queries](https://cses.fi/problemset/task/1734/) | |
