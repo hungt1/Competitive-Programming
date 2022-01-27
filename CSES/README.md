@@ -142,11 +142,11 @@
 | [Pizzeria Queries](https://cses.fi/problemset/task/2206/) | [2206.cpp](./Range%20Queries/2206.cpp) |
 | [Subarray Sum Queries](https://cses.fi/problemset/task/1190/) | [1190.cpp](./Range%20Queries/1190.cpp) |
 | [Distinct Values Queries](https://cses.fi/problemset/task/1734/) | [1734.cpp](./Range%20Queries/1734.cpp) |
-| [Increasing Array Queries](https://cses.fi/problemset/task/2416/) | |
-| [Forest Queries II](https://cses.fi/problemset/task/1739/) | |
-| [Range Updates and Sums](https://cses.fi/problemset/task/1735/) | |
-| [Polynomial Queries](https://cses.fi/problemset/task/1736/) | |
-| [Range Queries and Copies](https://cses.fi/problemset/task/1737/) | |
+| [Increasing Array Queries](https://cses.fi/problemset/task/2416/) | [2416.cpp](./Range%20Queries/2416.cpp) |
+| [Forest Queries II](https://cses.fi/problemset/task/1739/) | [1739.cpp](./Range%20Queries/1739.cpp) |
+| [Range Updates and Sums](https://cses.fi/problemset/task/1735/) | [1735.cpp](./Range%20Queries/1735.cpp) |
+| [Polynomial Queries](https://cses.fi/problemset/task/1736/) | [1736.cpp](./Range%20Queries/1736.cpp) |
+| [Range Queries and Copies](https://cses.fi/problemset/task/1737/) | [1737.cpp](./Range%20Queries/1737.cpp) |
 
 ### Tree Algorithms
 | Problem                                                           | Solution                             |
@@ -156,11 +156,11 @@
 | [Tree Diameter](https://cses.fi/problemset/task/1131/) | [1131.cpp](./Tree%20Algorithms/1131.cpp) |
 | [Tree Distances I](https://cses.fi/problemset/task/1132/) | [1132.cpp](./Tree%20Algorithms/1132.cpp) |
 | [Tree Distances II](https://cses.fi/problemset/task/1133/) | [1133.cpp](./Tree%20Algorithms/1133.cpp) |
-| [Company Queries I](https://cses.fi/problemset/task/1687/) | |
-| [Company Queries II](https://cses.fi/problemset/task/1688/) | |
-| [Distance Queries](https://cses.fi/problemset/task/1135/) | |
-| [Counting Paths](https://cses.fi/problemset/task/1136/) | |
-| [Subtree Queries](https://cses.fi/problemset/task/1137/) | |
+| [Company Queries I](https://cses.fi/problemset/task/1687/) | [1687.cpp](./Tree%20Algorithms/1687.cpp) |
+| [Company Queries II](https://cses.fi/problemset/task/1688/) | [1688.cpp](./Tree%20Algorithms/1688.cpp) |
+| [Distance Queries](https://cses.fi/problemset/task/1135/) | [1135.cpp](./Tree%20Algorithms/1135.cpp) |
+| [Counting Paths](https://cses.fi/problemset/task/1136/) | [1136.cpp](./Tree%20Algorithms/1136.cpp) |
+| [Subtree Queries](https://cses.fi/problemset/task/1137/) | [1137.cpp](./Tree%20Algorithms/1137.cpp) |
 | [Path Queries](https://cses.fi/problemset/task/1138/) | |
 | [Path Queries II](https://cses.fi/problemset/task/2134/) | |
 | [Distinct Colors](https://cses.fi/problemset/task/1139/) | |
@@ -238,7 +238,7 @@
 ### Advanced Techniques
 | Problem                                                           | Solution                             |
 | ----------------------------------------------------------------- | ------------------------------------ |
-| [Meet in the Middle](https://cses.fi/problemset/task/1628/) | |
+| [Meet in the Middle](https://cses.fi/problemset/task/1628/) | [1628.cpp](./Advanced%20Techniques/1628.cpp) |
 | [Hamming Distance](https://cses.fi/problemset/task/2136/) | |
 | [Beautiful Subgrids](https://cses.fi/problemset/task/2137/) | |
 | [Reachable Nodes](https://cses.fi/problemset/task/2138/) | |
