@@ -161,8 +161,8 @@
 | [Distance Queries](https://cses.fi/problemset/task/1135/) | [1135.cpp](./Tree%20Algorithms/1135.cpp) |
 | [Counting Paths](https://cses.fi/problemset/task/1136/) | [1136.cpp](./Tree%20Algorithms/1136.cpp) |
 | [Subtree Queries](https://cses.fi/problemset/task/1137/) | [1137.cpp](./Tree%20Algorithms/1137.cpp) |
-| [Path Queries](https://cses.fi/problemset/task/1138/) | |
-| [Path Queries II](https://cses.fi/problemset/task/2134/) | |
+| [Path Queries](https://cses.fi/problemset/task/1138/) | [1138.cpp](./Tree%20Algorithms/1138.cpp) |
+| [Path Queries II](https://cses.fi/problemset/task/2134/) | [2134.cpp](./Tree%20Algorithms/2134.cpp) |
 | [Distinct Colors](https://cses.fi/problemset/task/1139/) | |
 | [Finding a Centroid](https://cses.fi/problemset/task/2079/) | |
 | [Fixed-Length Paths I](https://cses.fi/problemset/task/2080/) | |
